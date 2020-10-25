@@ -1,0 +1,24 @@
+{
+  "name": "API_NodeJS_Express_Mongo",
+  "version": "1.0.0",
+  "description": "Aprendendo através do canal da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayckolsilva/API_NodeJS_Express_Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayckolsilva/API_NodeJS_Express_Mongo/issues"
+  },
+  "homepage": "https://github.com/mayckolsilva/API_NodeJS_Express_Mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
